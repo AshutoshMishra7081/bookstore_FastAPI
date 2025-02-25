@@ -81,3 +81,6 @@ This project is a simple Bookstore API built with FastAPI. It allows users to ma
 
 ### License
     This project is licensed under the MIT License - see the LICENSE file for details
+
+### To run the test script
+    Just open run the command "pytest -v {file_name}.py" for e.g., pytest -v test_Login.py
